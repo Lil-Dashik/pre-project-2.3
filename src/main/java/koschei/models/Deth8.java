@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class Deth8 {
     @Override
     public String toString() {
-        return "Death to Koshchei!";
+        return "Смерть Кощея!";
     }
 }
 
